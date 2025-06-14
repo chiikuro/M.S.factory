@@ -267,6 +267,7 @@ h2 {
 .nowrap {
     white-space: nowrap;
     display: inline-block;
+    margin-left: 80px;
 }
 
 /* 会社概要 */
