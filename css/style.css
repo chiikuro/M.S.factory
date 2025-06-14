@@ -265,7 +265,9 @@ h2 {
     color: #ffffff;
 }
 .tel-line {
+    display: flex;
     white-space: nowrap;
+    gap: .2rem;
 }
 
 /* 会社概要 */
