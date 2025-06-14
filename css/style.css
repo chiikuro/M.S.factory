@@ -264,6 +264,17 @@ h2 {
     background-color: #000;
     color: #ffffff;
 }
+.tel-line {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 0.5em;
+    font-size: 1rem;
+  }
+  
+  .tel-line a {
+    text-decoration: none;
+  }
 
 /* 会社概要 */
 .profile {
