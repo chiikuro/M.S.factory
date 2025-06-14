@@ -265,12 +265,9 @@ h2 {
     color: #ffffff;
 }
 .tel-line {
-    white-space: nowrap;     
-    display: block;          
-    text-align: left;        
-    margin: 0;             
+    white-space: nowrap;
+    display: inline-block;
 }
-  
 
 /* 会社概要 */
 .profile {
