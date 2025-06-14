@@ -271,10 +271,11 @@ h2 {
     gap: 0.5em;
     font-size: 1rem;
   }
-  
-  .tel-line a {
+ .tel-line a {
     text-decoration: none;
-  }
+    color: inherit;
+    white-space: nowrap;
+}
 
 /* 会社概要 */
 .profile {
