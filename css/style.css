@@ -264,11 +264,6 @@ h2 {
     background-color: #000;
     color: #ffffff;
 }
-.tel-line {
-    display: flex;
-    white-space: nowrap;
-    gap: .2rem;
-}
 
 /* 会社概要 */
 .profile {
