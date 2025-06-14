@@ -264,10 +264,14 @@ h2 {
     background-color: #000;
     color: #ffffff;
 }
-#nowrap {
+.nowrap {
     white-space: nowrap;
     display: inline-block;
 }
+.tel-num {
+    white-space: nowrap;
+}
+  
 
 /* 会社概要 */
 .profile {
