@@ -112,7 +112,7 @@ h2 {
 }
 .kyoto {
     padding: 50px 20px 50px 0px;
-    height: 80%;
+    height: auto;
 }
 .focus {
     color: red;
