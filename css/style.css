@@ -264,7 +264,7 @@ h2 {
     background-color: #000;
     color: #ffffff;
 }
-.nowrap {
+#nowrap {
     white-space: nowrap;
     display: inline-block;
 }
