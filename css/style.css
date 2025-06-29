@@ -74,12 +74,9 @@ img {
     width: 100%;
     margin-top: 3rem;
   }
-<<<<<<< HEAD
-=======
   .company-info {
     font-size: 1.2rem;
   }
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
   
 /* メイン */
 main {
@@ -97,18 +94,12 @@ h2 {
 .banner {
     margin: 0;
 }
-<<<<<<< HEAD
-
-/* ニュース */
-.news {
-=======
 .company-info {
     text-align: center;
 }
 
 /* ニュース */
 #news {
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
     padding-top: 10px;
     padding-left: 50px;
     font-size: 1.5rem;
@@ -125,27 +116,17 @@ h2 {
     padding-top: 30px;
 }
 .item img {
-<<<<<<< HEAD
-    text-align: center;
-=======
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
     max-width: 80%;
     padding-left: 60px;
 }
 .kyoto {
     padding: 50px 20px 50px 0px;
-<<<<<<< HEAD
-    height: auto;
-=======
     height: 80%;
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
 }
 .focus {
     color: red;
     font-style: italic;
 }
-<<<<<<< HEAD
-=======
 .cam {
     padding: 40px 0px 30px 0px;
     text-align: center;
@@ -188,7 +169,6 @@ h2 {
 .sp_sale p{
     padding-top: 50px;
 }
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
 
 /* セクション */
 .sec {
@@ -418,11 +398,7 @@ li {
 
     /* メイン */
     /* ニュース */
-<<<<<<< HEAD
-    .news {
-=======
     #news {
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
         padding-top: 30px;
         font-size: 2.5rem;
     }
@@ -434,8 +410,6 @@ li {
     .item img {
         text-align: center;
     }
-<<<<<<< HEAD
-=======
 
     /* 特選車 */
 .sp_item {
@@ -451,7 +425,6 @@ li {
 .sp_sale p{
     padding-top: 150px;
 }
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
     
     /* セクション */
     .sec h1 {
