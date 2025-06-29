@@ -37,11 +37,7 @@ img {
   }
   .logo {
     margin-top: 15px;
-<<<<<<< HEAD
-    width: 300px;
-=======
     width: 150px;
->>>>>>> f061abe3ab427a309d095dd8145690e189c0c342
   }
   .center-text {
     flex-grow: 1;
